@@ -86,11 +86,11 @@ Ensure you have the following installed:
 ### Installation and Running the Simulation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/keaenlim/'Lab 3'.git
+   git clone https://github.com/keaenlim/CS2030.git
    ```
 2. **Navigate to the project directory**:
    ```sh
-   cd 'Lab 3'
+   cd CS2030/'Lab 3'
    ```
 3. **Compile the Java files**:
    ```sh
