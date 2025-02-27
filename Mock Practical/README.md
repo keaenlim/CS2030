@@ -84,6 +84,24 @@ $3.33 using SMA7890 (10 mins away) PrivateCar (ShareARide)
 $4.40 using SHA1234 (5 mins away) NormalCab (JustRide)
 ```
 
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/keaenlim/'Lab 3'
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd 'Lab 3'
+   ```
+3. Compile the files:
+   ```sh
+   javac --release 21 --enable-preview *.java
+   ```
+4. Run the Main.java file:
+   ```sh
+   java Main
+   ```
+
 ## 🚀 Technologies Used
 - **Java** for core logic and implementation
 - **JShell** for interactive testing
