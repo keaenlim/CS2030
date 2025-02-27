@@ -87,11 +87,11 @@ $4.40 using SHA1234 (5 mins away) NormalCab (JustRide)
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/keaenlim/'Lab 3'
+   git clone https://github.com/keaenlim/CS2030.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd 'Lab 3'
+   cd CS2030/'Mock Practical'
    ```
 3. Compile the files:
    ```sh
