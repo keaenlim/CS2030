@@ -106,9 +106,6 @@ $4.40 using SHA1234 (5 mins away) NormalCab (JustRide)
 - **Java** for core logic and implementation
 - **JShell** for interactive testing
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ## 💡 Acknowledgments
 - Designed to simulate cab booking logic with multiple services.
 
