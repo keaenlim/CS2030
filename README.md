@@ -86,9 +86,6 @@ This repository aims to:
 ## 🏆 Contributing
 If you would like to contribute your insights or solutions, feel free to open a pull request! All the best with CS2030! :) 
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ## 📬 Contact
 For any questions or discussions:
 - GitHub: [keaenlim](https://github.com/keaenlim)
