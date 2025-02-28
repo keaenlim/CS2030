@@ -111,9 +111,6 @@ Ensure you have the following installed:
 - **Streams & Functional Programming** for processing event sequences
 - **Priority Queue (PQ.java)** for efficient event management
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ## 💡 Acknowledgments
 - Inspired by real-world queue management and discrete event simulation.
 
